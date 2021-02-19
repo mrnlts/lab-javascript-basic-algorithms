@@ -1,7 +1,7 @@
-// Iteration 1: Names and Input
+function printLink () {
+    let exerciseLink = "https://repl.it/@MarinaAM/JavaScript-basic-algorithms#script.js";
+    let exerciseTopic = "JavaScript";
+    return (console.log("To see the exercise about" + " " + exerciseTopic + " " + "go to" + " " + exerciseLink + "   :-)"));
+}
 
-
-// Iteration 2: Conditionals
-
-
-// Iteration 3: Loops
+printLink();  
